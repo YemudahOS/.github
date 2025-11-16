@@ -67,34 +67,9 @@ Paradigms:   High-performance | Distributed systems | Real-time | Low-level
 
 ---
 
-## 🟣 Neural Activity Graph (Stats)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yemudah&show_icons=true&theme=radical&hide_border=true&count_private=true">
-</p>
-
----
 
 ## 🛰 Connect With Us
 
 📧 **Email:** [contact@yemudah.com](mailto:contact@yemudah.com)
 🌐 **Website:** (coming soon)
 🔗 **LinkedIn / X:** (optional)
-
----
-
-<h3 align="center">🟣 Yemudah — *Engineering Without Compromise*</h3>
-
----
-
-
-If you'd like, I can also:
-
-✨ Add an **animated cyberpunk banner**  
-🟣 Design a **Yemudah logo**  
-⚙️ Add **3D-like SVG technology badges**  
-⚡ Add **auto-updating GitHub org stats**  
-🧬 Rewrite it in a more **corporate**, **AI-driven**, or **military-grade** tone  
-
-Just tell me!
-```
