@@ -213,22 +213,6 @@ Lead Backend & System Architect | FPGA / ASIC Prototyping Engineer | Native Andr
 
 ---
 
-# 🛣 Technology Roadmap
-
-### Short Term
-- Hospital-grade FPGA healthcare devices  
-- Distributed telecom backends  
-
-### Mid Term
-- Custom embedded OS  
-- Hardware accelerated analytics  
-
-### Long Term
-- ASIC medical processors  
-- Scientific compute hardware  
-
----
-
 # 🤝 Collaboration & Partnerships
 
 Open to:
@@ -246,7 +230,7 @@ Open to:
 **Brilliant (Quinn) Narlo**  
 Lead Systems Architect — Yemudah
 
-📧 contact@yemudah.com  
+📧 quinnnarlo@yemudah.com  
 🌍 Website (coming soon)  
 🔗 GitHub | LinkedIn  
 
