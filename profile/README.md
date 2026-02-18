@@ -26,6 +26,7 @@ traditional software alone is too slow, too unreliable, or too inefficient.
 We innovate at the intersection of:
 
 • Chip & Silicon
+
 • Embedded & real-time computing  
 • FPGA/ASIC hardware acceleration  
 • Distributed infrastructure  
