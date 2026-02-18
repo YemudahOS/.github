@@ -10,7 +10,7 @@ High-Performance • Hardware-Aware • Real-Time • Scalable
 </h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Systems-Go%20%7C%20C%20%7C%20C++-7519FF?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Systems-Go%20%7Erlang%20%7C%20C%20%7C%20C++-7519FF?style=for-the-badge">
   <img src="https://img.shields.io/badge/Hardware-FPGA%20%7C%20Verilog%20%7C%20SystemVerilog%20%7C%20ARM-5A00E0?style=for-the-badge">
   <img src="https://img.shields.io/badge/Backend-Distributed%20Systems%20%7C%20Microservices-3D00B8?style=for-the-badge">
   <img src="https://img.shields.io/badge/Mobile-Native%20Android%20%7C%20iOS-2A0090?style=for-the-badge">
