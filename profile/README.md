@@ -132,10 +132,3 @@ Systems & Embedded Engineer
 🔗 GitHub | LinkedIn (optional)
 
 ---
-
-<h4 align="center">
-From transistors to cloud infrastructure — engineered properly.
-</h4>
-```
-
----
