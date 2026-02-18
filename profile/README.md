@@ -44,34 +44,6 @@ Lead Backend & System Architect | FPGA / ASIC Prototyping Engineer | Native Andr
 
 ---
 
-# 🧠 Core Engineering Domains
-
-## 🖥 Systems Engineering
-- Kernels, schedulers, memory management  
-- High-performance networking  
-- Hardware abstraction layers  
-
-## 🔌 Embedded & Real-Time
-- Bare-metal MCUs & RTOS  
-- Sensor & actuator systems  
-- Control algorithms  
-
-## ⚙️ FPGA & Digital Hardware
-- DSP pipelines  
-- Medical instrumentation  
-- Parallel accelerators  
-
-## 🌐 Distributed Platforms
-- Go microservices  
-- Telecom/financial systems  
-- Fault-tolerant architecture  
-
-## 📱 Native Mobile Systems
-- Hardware-aware mobile apps  
-- Secure device integrations  
-
----
-
 # 🔬 CURRENT RESEARCH PROGRAMS
 
 > Update this section continuously as research evolves.
