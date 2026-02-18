@@ -122,7 +122,7 @@ Lead Backend & System Architect | FPGA / ASIC Prototyping Engineer | Native Andr
 
 # 🧪 PRODUCTS & PLATFORMS BY DEPARTMENT
 
-> Each department ships real systems — not demos.
+Comming Soon
 
 ---
 
@@ -138,17 +138,6 @@ Lead Backend & System Architect | FPGA / ASIC Prototyping Engineer | Native Andr
 
 ---
 
-# 🤝 Collaboration & Partnerships
-
-Open to:
-
-✔ Universities  
-✔ Hospitals & medical research  
-✔ Hardware manufacturers  
-✔ Telecom providers  
-✔ Scientific institutions  
-
----
 
 # 📫 Contact
 
@@ -158,5 +147,3 @@ Lead Systems Architect — Yemudah
 📧 quinnnarlo@yemudah.com  
 🌍 Website (coming soon)  
 🔗 GitHub | LinkedIn  
-
----
