@@ -137,4 +137,4 @@ Lead Systems Architect — Yemudah
 
 📧 quinnnarlo@yemudah.com  
 🌍 Website (coming soon)  
-🔗 GitHub | LinkedIn  
+🔗 GitHub | [LinkedIn](https://www.linkedin.com/in/brilliant-narlo-b0ab4724a/)  
