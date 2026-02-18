@@ -20,13 +20,16 @@ High-Performance • Hardware-Aware • Real-Time • Scalable
 
 ## ⚡ Mission
 
-Engineer **high-performance systems from silicon to cloud** — combining:
+Engineer **high-performance systems from silicon to cloud** to solve problems where
+traditional software alone is too slow, too unreliable, or too inefficient.
+
+We innovate at the intersection of:
 
 • Operating systems  
-• Embedded & real-time firmware  
-• FPGA/ASIC acceleration  
-• Distributed computing  
-• Scientific & applied research  
+• Embedded & real-time computing  
+• FPGA/ASIC hardware acceleration  
+• Distributed infrastructure  
+• Scientific research systems  
 
 ---
 
@@ -35,114 +38,102 @@ Engineer **high-performance systems from silicon to cloud** — combining:
 **Brilliant (Quinn) Narlo**  
 Lead Backend & System Architect | FPGA / ASIC Prototyping Engineer | Native Android & iOS Engineer  
 
-**Core Expertise**
-- Operating system design & low-level systems  
-- Embedded real-time hardware/software co-design  
-- FPGA digital architecture & signal processing  
-- High-concurrency distributed platforms  
-- Native mobile systems  
+Specializing in building **technology where performance, precision, and reliability are mission-critical**.
 
 ---
 
-# 🔬 CURRENT RESEARCH PROGRAMS
-
-> Update this section continuously as research evolves.
-
----
-
-## 🧬 Biology Research
-
-**Focus Areas**
-- Bio-signal processing (ECG, SpO₂, neural signals)
-- Computational biology systems
-- Hardware-accelerated bio-analysis
-
-**Active Research**
-- [ ] Real-time vital signal reconstruction on FPGA  
-- [ ] Low-power wearable health systems  
-- [ ] Digital bio-sensor interfaces  
+# 🔬 CURRENT RESEARCH PROGRAMS  
+### Why Each Field Needs Technology Innovation
 
 ---
 
-## ⚗ Chemistry Research
+## 🧬 Biology Research — Turning Life Signals Into Real-Time Intelligence
 
-**Focus Areas**
-- Sensor electronics for chemical detection  
-- Embedded spectroscopy systems  
-- Real-time data acquisition
+Modern biology produces massive streams of data from sensors, imaging, and monitoring devices.  
+Traditional software processing introduces delays, noise, and power inefficiencies.
 
-**Active Research**
-- [ ] FPGA-based spectroscopy processing  
-- [ ] Chemical sensor embedded platforms  
-- [ ] High-speed data filtering pipelines  
+**Why innovation matters:**
+- Real-time biosignal processing saves lives in medical monitoring  
+- Hardware acceleration enables continuous health tracking  
+- Embedded systems make diagnostics portable and affordable  
 
----
-
-## ⚛ Physics Research
-
-**Focus Areas**
-- Signal processing for instrumentation  
-- Control systems  
-- Hardware acceleration
-
-**Active Research**
-- [ ] Real-time measurement hardware  
-- [ ] FPGA DSP physics engines  
-- [ ] Embedded control loops  
+**Technology enables:**
+- Instant vital analysis  
+- Wearable medical devices  
+- Precision biological measurements  
 
 ---
 
-## 📐 Mathematics Research
+## ⚗ Chemistry Research — Faster, More Accurate Detection & Analysis
 
-**Focus Areas**
-- Numerical optimization  
-- Signal algorithms  
-- Parallel computation
+Chemical experiments rely on sensing, measurement, and signal interpretation that must be extremely precise.  
+Manual and slow digital systems limit discovery and safety.
 
-**Active Research**
-- [ ] High-speed FFT pipelines  
-- [ ] Hardware-optimized solvers  
-- [ ] Real-time algorithm acceleration  
+**Why innovation matters:**
+- Real-time chemical sensing improves environmental and medical safety  
+- High-speed processing enables rapid compound identification  
+- Embedded platforms allow field-deployable labs  
 
----
-
-## ⚙ Engineering Research
-
-**Focus Areas**
-- OS design  
-- FPGA architectures  
-- Distributed systems
-
-**Active Research**
-- [ ] Custom kernel subsystems  
-- [ ] Medical FPGA platforms  
-- [ ] Ultra-concurrent telecom systems  
+**Technology enables:**
+- Smart chemical sensors  
+- Live spectroscopy analysis  
+- Automated experimentation systems  
 
 ---
 
-# 🧪 PRODUCTS & PLATFORMS BY DEPARTMENT
+## ⚛ Physics Research — Real-Time Control of Complex Systems
 
-Comming Soon
+Physics experiments involve high-frequency signals, feedback loops, and massive data throughput.  
+Software-only approaches often fail to meet real-time constraints.
+
+**Why innovation matters:**
+- FPGA acceleration enables nanosecond-level precision  
+- Embedded control stabilizes complex systems  
+- High-speed processing captures transient phenomena  
+
+**Technology enables:**
+- Real-time instrumentation  
+- Advanced measurement platforms  
+- High-performance experimental control  
 
 ---
 
+## 📐 Mathematics Research — Turning Theory Into High-Speed Computation
+
+Many mathematical models are computationally heavy and impractical in real-time on CPUs alone.
+
+**Why innovation matters:**
+- Hardware-optimized algorithms run thousands of times faster  
+- Parallel architectures solve problems previously impossible in real-time  
+- Embedded solvers enable instant decision systems  
+
+**Technology enables:**
+- Real-time optimization  
+- Fast signal transforms  
+- High-precision numerical engines  
 
 ---
 
-# 📚 Publications & Open Research (Optional)
+## ⚙ Engineering Research — Building the Systems That Power Everything Else
 
-- Whitepapers  
-- Open hardware cores  
-- Research prototypes  
-- Benchmark studies  
+Modern technology demands platforms that are faster, safer, and more reliable than traditional stacks.
+
+**Why innovation matters:**
+- Custom operating systems maximize hardware performance  
+- FPGA acceleration removes software bottlenecks  
+- Distributed systems scale to millions of users  
+
+**Technology enables:**
+- Ultra-reliable infrastructure  
+- Mission-critical platforms  
+- Next-generation computing architectures  
 
 ---
-
 
 # 📫 Contact
 
 **Brilliant (Quinn) Narlo**  
-Lead Systems Architect — Yemudah
+Lead Systems Architect — Yemudah  
 
 📧 quinnnarlo@yemudah.com  
 🌍 Website (coming soon)  
