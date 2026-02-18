@@ -1,75 +1,141 @@
-<!-- Yemudah Organization README -->
+
+<!-- Yemudah Organization README — Systems, Embedded, FPGA & Distributed Research Lab -->
 
 <h1 align="center">
-  <img src="https://img.shields.io/badge/Yemudah-Systems%20Engineering-7519FF?style=for-the-badge&logo=data:image/svg+xml;base64," width="0">
-  <br><strong>🟣 Y E M U D A H</strong>
+  <strong>🟣 Y E M U D A H</strong><br>
+  <span>Systems • Embedded • FPGA • Distributed Engineering</span>
 </h1>
 
-<h3 align="center">High-Performance • Low-Level • Distributed • Intelligent</h3>
+<h3 align="center">
+High-Performance • Hardware-Aware • Real-Time • Scalable
+</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Systems%20Programming-Rust%20%7C%20Go%20%7C%20C++-7519FF?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Embedded-ARM%20%7C%20RTOS%20%7C%20VHDL-5A00E0?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Distributed-gRPC%20%7C%20Cassandra-3D00B8?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Systems-Go%20%7C%20C%20%7C%20C++-7519FF?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Hardware-FPGA%20%7C%20Verilog%20%7C%20VHDL%20%7C%20ARM-5A00E0?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Backend-Distributed%20Systems%20%7C%20gRPC%20%7C%20Microservices-3D00B8?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Mobile-SwiftUI%20%7C%20Kotlin%20%7C%20Native-2A0090?style=for-the-badge">
 </p>
 
 ---
 
-## ⚡ Mission: *Engineer the Future*
+## ⚡ Mission: Engineer High-Performance Systems From Silicon to Cloud
 
-Yemudah builds **high-performance systems** where hardware meets software,  
-pushing boundaries in:
+Yemudah is a systems engineering and research lab focused on building **deep technology**:
 
-- 🚀 **Systems & Embedded Engineering**  
-  Bare-metal, microcontrollers, RTOS, Linux internals, hardware-accelerated logic.
+- 🚀 **Operating Systems & Low-Level Software**  
+  Kernels, bootloaders, schedulers, memory management, performance tuning.
 
-- 🧠 **Distributed & Backend Systems**  
-  Ultra-fast microservices (Go/Rust), gRPC pipelines, fault-tolerant storage.
+- 🔌 **Embedded Systems & Real-Time Firmware**  
+  Bare-metal MCUs, RTOS, device drivers, sensor interfaces, motor control.
 
-- 📡 **Telecom & Networking**  
-  SIGTRAN • MAP • CAP • SS7 signaling systems for modern infrastructure.
+- ⚙️ **FPGA & Digital Hardware Acceleration**  
+  Verilog/VHDL architectures, signal processing pipelines, healthcare instrumentation.
 
-- 📱 **Native Mobile Engineering**  
-  SwiftUI & Kotlin powered, hardware-aware, low-latency applications.
+- 🌐 **Massively Scalable Distributed Backends**  
+  Go microservices, telecom/USSD/payment systems, event-driven infrastructure.
+
+- 📱 **Native Mobile Systems Engineering**  
+  Hardware-aware iOS & Android applications.
 
 ---
 
-## 🔮 Tech Stack Genome
+## 🧬 Engineering Stack
 
 ```text
-Languages:   Rust | Go | C | C++ | Python | Java | Kotlin | Swift | JS
-Systems:     Linux | Docker | Kubernetes | gRPC | NATS | Redis | Cassandra
-Embedded:    ARM | RISC-V | Verilog | VHDL | Bare-metal | RTOS
-Paradigms:   High-performance | Distributed systems | Real-time | Low-level
+Languages:
+  Go | C | C++ | Python | Swift | Kotlin | JavaScript | Assembly
+
+Systems & Backend:
+  Linux | gRPC | REST | Docker | Kubernetes | Redis | MongoDB | Message queues
+
+Embedded & Hardware:
+  ARM | Bare-metal | RTOS | FPGA | Verilog | VHDL | UART | SPI | I2C
+
+Focus Areas:
+  OS development | Embedded systems | FPGA acceleration | Telecom platforms | Real-time computing
 ````
 
 ---
 
-## 🧩 Architecture Philosophy
+## 🧠 Architecture Principles
 
-> **Precision. Performance. Predictability.**
-> Everything we build follows a simple doctrine:
->
-> **Hardware-conscious + Distributed-by-design + Zero-compromise engineering**
+> Close to hardware. Built for speed. Designed to scale.
 
----
-
-## 🛠 Featured Systems
-
-| System                | Description                                  |
-| --------------------- | -------------------------------------------- |
-| **⚡ HydraCore**       | Ultra-fast gRPC service kernel (Go + Rust)   |
-| **📡 SignalMesh**     | Modern SS7/SIGTRAN signaling + telecom stack |
-| **🔧 FirmEdge**       | Cross-platform embedded device SDK           |
-| **📱 Synapse Mobile** | Unified iOS/Android native runtime           |
-
-> Want these added as pinned repos with logos? I can generate them.
+• Deterministic real-time behavior
+• Measured performance — no guessing
+• Fault-tolerant distributed systems
+• Hardware/software co-design
 
 ---
 
+## 🔬 Current Research & Advanced Projects
 
-## 🛰 Connect With Us
+### 🫀 FPGA Healthcare Systems
 
-📧 **Email:** [contact@yemudah.com](mailto:contact@yemudah.com)
-🌐 **Website:** (coming soon)
-🔗 **LinkedIn / X:** (optional)
+* Hospital-grade SpO₂ & vital monitoring
+* Digital filtering & signal reconstruction in hardware
+* Low-power real-time medical devices
+
+### 🧠 Operating System Internals
+
+* Custom kernel subsystems
+* Memory allocators & schedulers
+* Hardware abstraction layers
+
+### ⚡ Hardware Accelerated Computing
+
+* FPGA offload engines
+* Parallel pipelines for signal & data processing
+
+### 🌐 Go + Erlang Distributed Platforms
+
+* Ultra-high concurrency backends
+* Telecom & financial transaction systems
+
+### 🤖 Embedded Control & IoT
+
+* Sensor fusion
+* Motor control
+* Real-time decision systems
+
+---
+
+## 🛠 Flagship Engineering Projects
+
+| Project            | Purpose                                              |
+| ------------------ | ---------------------------------------------------- |
+| ⚡ **HydraOS**      | Custom operating system kernel & low-level services  |
+| 🧩 **MedFPGA**     | FPGA-powered medical monitoring platform             |
+| 📡 **TeleCore**    | Telecom & USSD/payment backend engine                |
+| 🚁 **EdgeControl** | Embedded real-time control firmware                  |
+| 🌐 **GoScale**     | High-performance distributed microservices framework |
+
+---
+
+## 🚀 What Makes Yemudah Different
+
+✔ Not just software — full hardware/software systems
+✔ FPGA + OS + distributed in one stack
+✔ Designed for real-world scale & reliability
+✔ Research-driven engineering
+
+---
+
+## 📫 Contact
+
+**Kelvin Brilliant M. Narlo**
+Systems & Embedded Engineer
+
+📧 [contact@yemudah.com](mailto:contact@yemudah.com)
+🌍 Website coming soon
+🔗 GitHub | LinkedIn (optional)
+
+---
+
+<h4 align="center">
+From transistors to cloud infrastructure — engineered properly.
+</h4>
+```
+
+---
